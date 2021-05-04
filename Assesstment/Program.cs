@@ -7,9 +7,12 @@ namespace Assesstment
         static void Main(string[] args)
         {
             #region LetterCount
-            //uncomment the code to test run the letter count
-            //var letterCount = new LetterCount();
-            //letterCount.start();
+            var letterCount = new LetterCount();
+            letterCount.start();
+            #endregion
+            #region WordSplit
+            var wordSplit = new WordSplit(new string[2] { "hellocat", "apple,bat,cat,goodbye,hello,yellow,why" });
+            wordSplit.start();
             #endregion
             Console.ReadLine();
         }
