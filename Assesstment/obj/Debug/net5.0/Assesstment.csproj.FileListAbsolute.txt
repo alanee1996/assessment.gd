@@ -1,0 +1,16 @@
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.exe
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.deps.json
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.runtimeconfig.json
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.runtimeconfig.dev.json
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.dll
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\ref\Assesstment.dll
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\bin\Debug\net5.0\Assesstment.pdb
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.csprojAssemblyReference.cache
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.AssemblyInfoInputs.cache
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.AssemblyInfo.cs
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.csproj.CoreCompileInputs.cache
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.dll
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\ref\Assesstment.dll
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.pdb
+C:\Users\ase05041\Desktop\Training\Assesstment\Assesstment\obj\Debug\net5.0\Assesstment.genruntimeconfig.cache
