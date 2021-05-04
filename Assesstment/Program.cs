@@ -14,6 +14,10 @@ namespace Assesstment
             var wordSplit = new WordSplit(new string[2] { "hellocat", "apple,bat,cat,goodbye,hello,yellow,why" });
             wordSplit.start();
             #endregion
+            #region WordSplitComma
+            var wordSplitComma = new WordSplitComma(new string[2] { "hellocat", "apple,bat,cat,goodbye,hello,yellow,why" });
+            wordSplitComma.start();
+            #endregion
             Console.ReadLine();
         }
     }
